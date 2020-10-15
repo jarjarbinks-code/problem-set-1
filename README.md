@@ -1,2 +1,5 @@
-# problem-set-1
-hello
+Public class Hello {
+public static void main(String[] args) {
+System.out.println("Hello");
+}
+}
